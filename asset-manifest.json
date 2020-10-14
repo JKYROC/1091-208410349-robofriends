@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JKYROC/1091-208410349-robofirends.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/JKYROC/1091-208410349-robofirends.git/static/js/main.9c3012b6.chunk.js",
+    "main.js.map": "/JKYROC/1091-208410349-robofirends.git/static/js/main.9c3012b6.chunk.js.map",
+    "runtime-main.js": "/JKYROC/1091-208410349-robofirends.git/static/js/runtime-main.a164c2ac.js",
+    "runtime-main.js.map": "/JKYROC/1091-208410349-robofirends.git/static/js/runtime-main.a164c2ac.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/JKYROC/1091-208410349-robofirends.git/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/JKYROC/1091-208410349-robofirends.git/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/JKYROC/1091-208410349-robofirends.git/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/JKYROC/1091-208410349-robofirends.git/index.html",
+    "precache-manifest.f25815e900a82ae3ac453d75e349cf00.js": "/JKYROC/1091-208410349-robofirends.git/precache-manifest.f25815e900a82ae3ac453d75e349cf00.js",
+    "service-worker.js": "/JKYROC/1091-208410349-robofirends.git/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/JKYROC/1091-208410349-robofirends.git/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/JKYROC/1091-208410349-robofirends.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/JKYROC/1091-208410349-robofirends.git/static/js/2.0b5b9267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a164c2ac.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9c3012b6.chunk.js"
+  ]
+}
